@@ -47,6 +47,6 @@ Fully interactive Power BI report (.pbix) containing:
 Clear, actionable insights with visual storytelling elements.
 
 ## Dashboard Preview
-(Insert dashboard image here – export from Power BI as PNG/JPEG and embed below)  
 
-![Student Habits Dashboard](student_habits_dashboard.png)
+
+![Student Habits Dashboard](studenthabits.png)
