@@ -11,7 +11,7 @@ Identify at-risk student groups using demographic and behavioral filters.
 Provide actionable insights through an interactive and visually engaging dashboard.  
 
 ## Data Preparation
-Dataset: 95,000+ records of student lifestyle, social media habits, mental health indicators, and academic scores.  
+Dataset: 1000+ records of student lifestyle, social media habits, mental health indicators, and academic scores.  
 Data Cleaning:  
 - Removed duplicates and inconsistent entries.  
 - Standardized categories (e.g., sleep hours, social media usage levels).  
