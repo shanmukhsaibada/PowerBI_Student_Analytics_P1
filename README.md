@@ -49,4 +49,4 @@ Clear, actionable insights with visual storytelling elements.
 ## Dashboard Preview
 
 
-![Student Habits Dashboard](studenthabits.png)
+![Student Habits Dashboard](studentshabits.PNG)
